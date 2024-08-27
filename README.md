@@ -24,4 +24,5 @@ Soy [Tu Nombre], un desarrollador apasionado por [tu especialidad o interés]. A
 
 - LinkedIn
 - Twitter
+- Nataliia
 
